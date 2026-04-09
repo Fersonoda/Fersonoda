@@ -10,6 +10,6 @@
 
 <div style = "display: inline_block">
     <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,vscode,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,vscode,mysql,git,github,linux" />
 </p>
 </div>
