@@ -4,7 +4,7 @@
 - 👨‍💻 I’m currently studying Systems Analysis and Development at UNIVAP - Universidade do Vale do Paraíba. Passionate about data and automation solutions.
 - 🎯 Here you’ll find my academic and personal projects, focused on software development, automation, and data analysis. I’m always looking to learn more and generate insights.
 ### 📫 Connect With Me
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fersonoda)[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theonly_fer/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fersonoda@gmail.com)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fersonoda)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fersonoda@gmail.com)
 
 ## Languages and Tools:
 
